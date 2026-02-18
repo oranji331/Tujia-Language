@@ -1,0 +1,42 @@
+/* 基本样式 */
+body {
+    background-color: #4B3D26;  /* 深棕色背景 */
+    font-family: 'Arial', sans-serif;  /* 使用现代字体 */
+    color: white;  /* 设置文本颜色为白色 */
+    margin: 0;
+    padding: 0;
+}
+
+/* 标题颜色 */
+h1, h2, h3 {
+    color: #9B1C24;  /* 深红色 */
+}
+
+/* 按钮样式 */
+.btn {
+    background-color: #D4AF37;  /* 金色 */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: #9B1C24;  /* 鼠标悬停时的颜色 */
+}
+
+/* 页面主要内容 */
+.content {
+    padding: 20px;
+    margin: 20px;
+}
+
+/* 背景图案 */
+header {
+    background-image: url('path_to_your_traditional_pattern_image.png'); /* 你的西南卡普图案链接 */
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 50px;
+}
