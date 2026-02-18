@@ -9,13 +9,13 @@ h1, h2 {
 }
 
 header {
-    background-image: url('path_to_your_traditional_pattern_image.png'); /* 背景图案 */
+    background-image: url('https://github.com/oranji331/Tujia-Language/raw/main/西兰卡普.jpg'); /* 图像链接 */
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
     padding: 50px;
-    text-align: center;
 }
+
 
 .btn {
     background-color: #D4AF37;  /* 金色按钮 */
